@@ -1,0 +1,9 @@
+[2025-12-25 09:00:58] Preliminaries complete. Starting ETL process.
+[2025-12-25 09:01:03] Data extraction complete.
+[2025-12-25 09:01:04] Data transformation complete.
+[2025-12-25 09:01:04] Data saved to CSV file.
+[2025-12-25 09:01:04] Data loaded to Database as a table.
+[2025-12-25 09:01:04] Running query: SELECT * FROM Largest_banks;
+[2025-12-25 09:01:04] Running query: SELECT AVG(MC_GBP_Billion) FROM Largest_banks;
+[2025-12-25 09:01:04] Running query: SELECT Name FROM Largest_banks LIMIT 5;
+[2025-12-25 09:01:04] Process Complete.
